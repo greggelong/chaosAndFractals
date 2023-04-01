@@ -14,7 +14,13 @@ some exercises from David P. Feldman's book
 
 5 graphic iteration and cobweb plots 
 
-see 
+see https://github.com/greggelong/functionPlot
 
-6 iterating linear functions see
+https://github.com/greggelong/cobwebPlotProcessing
+
+6 iterating linear functions 
+
+https://github.com/greggelong/functionPlot
+
+https://github.com/greggelong/cobwebPlotProcessing
 
