@@ -24,3 +24,11 @@ https://github.com/greggelong/functionPlot
 
 https://github.com/greggelong/cobwebPlotProcessing
 
+chapter 22 is julia sets so numbers that remain bounded and dont go to infinity
+
+for example a linear function that has a fixed point and the slope of the function is less than 1 and greater than -1 
+
+so no points go toward infinity so the julia set is the whole number line.  you can see this
+
+with cobweb plots
+
