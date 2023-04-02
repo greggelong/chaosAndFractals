@@ -32,3 +32,6 @@ so no points go toward infinity so the julia set is the whole number line.  you 
 
 with cobweb plots
 
+https://github.com/greggelong/iteratingLinear
+
+
